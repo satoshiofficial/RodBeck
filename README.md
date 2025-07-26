@@ -4,4 +4,4 @@ Code snippets, research materials and docs (the ones that were not acquired) fro
 
 1 March 2020 - 3 April 2021
 
-AI/ML IP acquired 4 April 2021 ($100M)
+AI/ML IP acquired 4 April 2021
