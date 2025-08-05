@@ -8,6 +8,13 @@ _____________________________________
 
 Self-learning, evolving, backpropagated AI enwrapping + within app/software/Docker/Bucket/Container/”Block”
 
+Evolutionary artificial intelligence and COVID-19
+
+Using the Google Cloud AI platform, pioneered large-scale, evolutionary, rapidly-scaling, back-propagated artificial intelligence and machine learning tools, which helped determine where cases are, where the hot spots are and predicts where the next outbreak is going to happen.
+
+created after he recovering from contracting coronavirusdisease2019 in early February 2020, while working as a Sr. Azure Cloud Engineer for Microsoft, as a response tool for healthcare and frontline workers during the early stages of the outbreak of the COVID-19 pandemic.
+
+
 Natural Language Processing (NLP):
 - A path on the plain - speech = one-dimensional, environment = two-dimensional
 - Grammar = a slot existential before-fill mechanism – therefore, routing of activation of understanding can happen before completion
