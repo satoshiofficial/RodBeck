@@ -2,9 +2,11 @@
 
 Code snippets, research materials, derivatives, notes, drafts, ideas and docs (the ones that were not acquired) from the Real-time Operations Data for Blockchain Entity-based Covid-19 Knowledgebases/Kmapping (RodBeck) Method, a proprietary cloud-based, multi-domain, multi-CNN evolutionary (generative) AI/ML solution for ER staff and frontline workers
 
-Named in honor of Cryptologic Linguist MSG Antonio "Rod" Rodriguez (KIA 8 February 2020, Nangarhar Province, AF) and Casey Beckwith (9 September 1987 - 16 October 2015) RIP
+When pitched to investors in May 2020, it needed a name, so named it in honor of Cryptologic Linguist MSG Antonio "Rod" Rodriguez (KIA 8 February 2020, Nangarhar Province, AF) and Casey Beckwith (9 September 1987 - 16 October 2015) RIP
 
-Named in honor of Cryptologic Linguist MSG Antonio "Rod" Rodriguez (KIA 8 February 2020, Nangarhar Province, AF) and Casey Beckwith (9 September 1987 - 16 October 2015) RIP
+https://www.nola.com/aca-covidthibodeaux-006-101320/image_c902da5b-f996-5f1e-9bbc-013a28c93dad.html
+
+https://www.katc.com/news/coronavirus/ul-grad-and-former-u-s-army-ranger-developing-technology-to-slow-the-spread-of-covid-19
 
 _____________________________________
 
