@@ -26,11 +26,11 @@ https://www.katc.com/news/coronavirus/ul-grad-and-former-u-s-army-ranger-develop
 
 Self-learning, evolving, backpropagated AI enwrapping + within app/software/Docker/Bucket/Container/”Block”
 
-Evolutionary artificial intelligence and COVID-19
+Evolutionary (Generative) artificial intelligence and COVID-19
 
-Using the Google Cloud AI platform, pioneered large-scale, evolutionary, rapidly-scaling, back-propagated artificial intelligence and machine learning tools, which helped determine where cases are, where the hot spots are and predicts where the next outbreak is going to happen.
+Using the Google Cloud Platform, pioneered large-scale, evolutionary, rapidly-scaling, back-propagated artificial intelligence and machine learning tools, which helped determine where cases are, where the hot spots are and predicts where the next outbreak is going to happen.
 
-Created after recovering from contracting Coronavirusdisease2019 in early February 2020, while working as a Sr. Azure Cloud Engineer for Microsoft, as a response tool for healthcare and frontline workers during the early stages of the outbreak of the COVID-19 pandemic.
+Created after recovering from contracting Coronavirusdisease2019 in early February 2020, while working as a Sr. Azure Cloud Engineer, Azure Cloud Advocate for Microsoft, as a response tool for healthcare and frontline workers during the early stages of the outbreak of the pandemic.
 
  INTERPOLATION(S) ON IMG_4742 AND IMG_9897:
 
@@ -58,6 +58,10 @@ con't next post
 [1a] RecursionLoops
 
 END INTERPOLATION(S) ON IMG_4742 AND IMG_9897
+
+The above text is also quoted at https://primal.net/e/nevent1qqswnxqyxutzqgvj68uzjrht7hjjlgzfa8q7x22tczgl95e2kmxuj8gp9ucdl
+
+
 
 
 Natural Language Processing (NLP):
