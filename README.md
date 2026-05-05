@@ -80,6 +80,10 @@ Natural Language Processing (NLP):
 - "in" pathway lingers, while "to" activates new pathway
 - Two pathways "co-mingle," creating a new understanding
 
+NLP > Dialogflow Tutorial: Improving Dscourse Markers (Early Draft, 27 January 2020)
+
+- https://docs.google.com/document/d/1BYMzW4Xyfw-jveBq8HvstWrJDmvollWnbBn9LOQ43ac/edit?usp=drivesdk
+
 Domains registered/used, via domains.google:
 
 regalgfx.com (6 May 2020)
