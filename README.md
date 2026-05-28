@@ -130,3 +130,19 @@ Developed by Brock Angelle Thibodeaux, (then) Founder, President and CEO of rega
 Note: llc active from 18 August 2020 - 4 April 2021
 
 AI/ML IP acquired 4 April 2021
+
+
+
+https://www.thumbtack.com/la/lafayette/router-setup-install-and-repair/regalgfx/service/223922102555976873
+
+
+
+
+
+
+
+
+
+
+
+
